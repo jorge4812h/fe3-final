@@ -1,0 +1,39 @@
+/* Estilo para tema claro */
+.lightTheme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.lightTheme .change-theme-btn{
+    background-color: #007BFF;
+}
+
+.lightTheme > a {
+    color: black;
+  }
+
+/* Estilo para tema oscuro */
+.darkThemeNavbar a h4,.darkTheme a h4 {
+    color: #ffffff;
+}
+
+
+.darkThemeNavbar {
+    background-color: #000000f8;
+    color: white;
+}
+
+.darkThemeNavbar .change-theme-btn{
+    background-color: #0056b3;
+}
+
+
+.darkThemeNavbar > a{
+    color: white;
+}
+
+.darkTheme {
+    margin: 0;
+    background-color: #12121296;
+    color: white;
+}
